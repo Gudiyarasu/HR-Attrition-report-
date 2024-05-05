@@ -75,3 +75,8 @@ To explore this HR Attrition Power BI report:
 
 The Datasets was from kaggle
 
+## Acknowledgments
+
+- Special thanks to ChatGPT for its invaluable assistance in creating this dashboard and providing insights.
+
+
