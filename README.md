@@ -3,7 +3,7 @@ Explore employee attrition trends and insights with our HR Attrition dashboard. 
 
 ## Data Model
 The data model outlines the structure and relationships of the datasets used in the HR Attrition report. It provides insights into how the data is organized and how different entities are connected.
-[Data Model](https://github.com/Gudiyarasu/HR-Attrition-report-/blob/main/Screenshots/Data%20Model.png)
+![Data Model](https://github.com/Gudiyarasu/HR-Attrition-report-/blob/main/Screenshots/Data%20Model.png)
 
 ## Overview Dashboard
 The overview dashboard provides a high-level summary of HR attrition metrics:
