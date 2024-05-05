@@ -67,9 +67,9 @@ The performance tracker dashboard provides insights into individual employee per
 To explore this HR Attrition Power BI report:
 
 
-1. Open the Power BI file `HR_Attrition_Report.pbix` using Power BI Desktop.
+1. Open the Power BI file `HR_Attrition.pbix` using Power BI Desktop.
 
-2. Interact with the dashboards to explore attrition insights and metrics.
+3. Interact with the dashboards to explore attrition insights and metrics.
 
 ## Data Sources
 
