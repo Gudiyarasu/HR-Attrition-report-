@@ -17,7 +17,7 @@ The overview dashboard provides a high-level summary of HR attrition metrics:
 - **Total Employees:** 1470
 - **Active and Inactive Employees:** 1233 &  237
 - **Attrition Rate:** 16.1%
-[Overview Dashboard](https://github.com/Gudiyarasu/HR-Attrition-report-/blob/main/Screenshots/Overview.png)
+![Overview Dashboard](https://github.com/Gudiyarasu/HR-Attrition-report-/blob/main/Screenshots/Overview.png)
 
 ## Demographics Dashboard
 
@@ -34,7 +34,7 @@ The demographics dashboard focuses on analyzing employee demographics:
   - AverageSalary ranged from $101,652 to $115,317.
 - **Oldest Employee:**
   - The oldest employee is aged 51.
-    [Demographics Dashboard](https://github.com/Gudiyarasu/HR-Attrition-report-/blob/main/Screenshots/Demographics.png)
+  ![Demographics Dashboard](https://github.com/Gudiyarasu/HR-Attrition-report-/blob/main/Screenshots/Demographics.png)
 
 
 ## Performance Tracker Dashboard
@@ -46,7 +46,7 @@ The performance tracker dashboard provides insights into individual employee per
 - **Work Environment:** Evaluation of performance in different work environments.
 - **Manager Relationship:** Impact of manager relationship on employee performance.
 - **Work-Life Balance:** Analysis of performance considering work-life balance factors.
-[Performance Tracker Dashboard](https://github.com/Gudiyarasu/HR-Attrition-report-/blob/main/Screenshots/performance%20Tracker.png)
+![Performance Tracker Dashboard](https://github.com/Gudiyarasu/HR-Attrition-report-/blob/main/Screenshots/performance%20Tracker.png)
 
 
 
@@ -65,7 +65,7 @@ The performance tracker dashboard provides insights into individual employee per
 - **Steepest Decline:** The attrition rate dropped from 50.0% to 33.3% during its steepest decline between Tuesday, March 6, 2018, and Monday, May 14, 2018.
 
 - **Sales Representatives:** Sales representatives accounted for 23.02% of the attrition rate among all job roles.
-  [Attrition Dashboard](https://github.com/Gudiyarasu/HR-Attrition-report-/blob/main/Screenshots/Attrition.png)
+  ![Attrition Dashboard](https://github.com/Gudiyarasu/HR-Attrition-report-/blob/main/Screenshots/Attrition.png)
 
 
 ## Getting Started
